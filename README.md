@@ -332,7 +332,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [zilliztech/mcp-server-milvus](https://github.com/zilliztech/mcp-server-milvus) 🐍 🏠 ☁️ - MCP Server for Milvus / Zilliz, making it possible to interact with your database.
 - [openlink/mcp-server-jdbc](https://github.com/OpenLinkSoftware/mcp-jdbc-server) 🐍 🏠 - An MCP server for generic Database Management System (DBMS) Connectivity via the Java Database Connectivity (JDBC) protocol
 - [hydrolix/mcp-hydrolix](https://github.com/hydrolix/mcp-hydrolix) 🎖️ 🐍 ☁️ - Hydrolix time-series datalake integration providing schema exploration and query capabilities to LLM-based workflows.
-- - [cwilby/mcp-node-mssql](https://github.com/cwilby/mcp-node-mssql) 📇 🏠 - MCP Server for MS SQL Server built with node-mssql, providing table, stored procedure, and overall query abilities.
+- [cwilby/mcp-node-mssql](https://github.com/cwilby/mcp-node-mssql) 📇 🏠 - MCP Server for MS SQL Server built with node-mssql, providing table, stored procedure, and overall query abilities.
 
 ### 📊 <a name="data-platforms"></a>Data Platforms
 
